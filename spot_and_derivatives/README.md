@@ -36,4 +36,10 @@ Derivative are finacial contracts, set between two or more parties, that derive 
 - Trader doesn't pay a price. He/she needs to post margin to collateralize (potential) cash settlement obligation.
 - Margin requirement is typically (much) less then the price of the underlying trading with leveage
 - Trader can benefit from rising and falling prices of the underlying asset.
+  
+
+## Trade in Binance
+
+
+
 
