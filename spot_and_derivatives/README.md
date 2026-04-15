@@ -37,8 +37,23 @@ Derivative are finacial contracts, set between two or more parties, that derive 
 - Margin requirement is typically (much) less then the price of the underlying trading with leveage
 - Trader can benefit from rising and falling prices of the underlying asset.
   
+## Types of Orders
 
-## Trade in Binance
+- Market order
+- Limit order
+- Stop limit order
+
+
+Market makers create offer to buy and sell at specific prices.
+And with this, they create liquidity and market take us fulfill
+
+
+All the limit order and limit sell orders are added in the order book.
+
+## Slippage
+
+Difference between the average price - lowest ask/bid price .
+
 
 
 
